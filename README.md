@@ -24,12 +24,12 @@ To run Pearl Stopwatch, you can use Flutter Version Manager (FVM) for an easy an
 
 1. **Clone the Repository:**
 ```
-git clone https://github.com/yourusername/pearl_stopwatch.git
+git clone https://github.com/yourusername/pearl.Stopwatch.git
 ```
 
 2. **Navigate to the Project Directory:**
 ```
-cd pearl_stopwatch
+cd pearl.Stopwatch
 ```
 
 ### Running the App

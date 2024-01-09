@@ -20,6 +20,9 @@ jobs:
 
     - name: Install dependencies
       run: flutter pub get
+    
+    - name: Build Web
+      run: flutter build web
 
     - name: Build APK
       run: flutter build apk
@@ -29,5 +32,3 @@ jobs:
         cd ios
         flutter build ios --no-codesign
 
-    - name: Build Web
-      run: flutter build web
